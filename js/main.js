@@ -1,3 +1,5 @@
+window.onload = () => document.getElementById("loading-secreen").remove();
+
 let menuBtn = document.querySelector(".menu-btn i");
 
 
